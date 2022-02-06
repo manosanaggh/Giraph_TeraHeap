@@ -1,0 +1,18 @@
+# IntelliJ IDEA files:
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Eclipse files:
+.classpath
+.eclipse
+.project
+.settings
+
+# Emacs auto-save files:
+*~
+\#*
+
+# Vim auto-save files:
+.*.swp
