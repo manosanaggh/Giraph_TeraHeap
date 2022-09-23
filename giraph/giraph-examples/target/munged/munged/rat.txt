@@ -1,0 +1,117 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2022-06-27T17:06:12+03:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 80
+
+Apache Licensed: 80
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/vertex/TestComputationTypes.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/aggregators/TestAggregatorsHandling.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestComputationState.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestAutoCheckpoint.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestCheckpointing.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestBspBasic.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestNotEnoughMapTasks.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestMutateGraph.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestGraphPartitioner.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestMaxSuperstep.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestOutOfCore.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/ConnectedComponentsComputationTestInMemory.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/MaxComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/scc/SccComputationTestInMemory.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/PageRankComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/block_app/package-info.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/block_app/TestMigrationBspBasic.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/RandomWalkWithRestartComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/BrachaTouegDeadlockComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/SimpleTriangleClosingComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/TestPageRank.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/TryMultiIpcBindingPortsTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/MinimumIntCombinerTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/RandomWalkTestUtils.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/SimpleShortestPathsComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/examples/ConnectedComponentsComputationTest.java
+  AL    /opt/giraph/giraph-examples/src/test/java/org/apache/giraph/TestManualCheckpoint.java
+  AL    /opt/giraph/giraph-examples/src/main/assembly/compile.xml
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/RandomWalkComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/scc/package-info.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccPhaseMasterCompute.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccVertexValue.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/scc/SccLongLongNullTextInputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/VerifyMessage.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/AggregatorsTestComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/package-info.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/TestComputationStateComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/block_app/package-info.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/block_app/SimpleMigrationMasterBlockFactory.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleMsgComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/LongDoubleDoubleTextInputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleFailComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleTextVertexOutputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/RandomWalkWithRestartComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/GeneratedVertexReader.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/VertexWithDoubleValueDoubleEdgeTextOutputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/BrachaTouegDeadlockComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleAggregatorWriter.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleTriangleClosingComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/MaxComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/utils/package-info.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/utils/BrachaTouegDeadlockMessage.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/utils/BrachaTouegDeadlockVertexValue.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/Algorithm.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleSuperstepComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleLongDoubleDoubleDoubleIdentityComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleMasterComputeComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/VertexWithDoubleValueNullEdgeTextOutputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/LongDoubleFloatTextInputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleOutDegreeCountComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/GeneratedEdgeReader.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/IdentityComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleInDegreeCountComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/ConnectedComponentsComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/RandomWalkVertexMasterCompute.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/RandomWalkWorkerContext.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/NormalizingLongDoubleDoubleTextInputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/PageRankComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleCheckpoint.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimplePageRankComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/io/formats/package-info.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/io/formats/BrachaTouegDeadlockInputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleVertexWithWorkerContext.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleMutateGraphComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/LongDoubleNullTextInputFormat.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleCombinerComputation.java
+  AL    /opt/giraph/giraph-examples/src/main/java/org/apache/giraph/examples/SimpleShortestPathsComputation.java
+  AL    /opt/giraph/giraph-examples/pom.xml
+  AL    /opt/giraph/giraph-examples/pom.xml.versionsBackup
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 
