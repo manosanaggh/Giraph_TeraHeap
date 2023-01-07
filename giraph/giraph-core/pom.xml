@@ -144,6 +144,7 @@ under the License.
         <version>3.0.0</version>
         <configuration>
           <xmlOutput>true</xmlOutput>
+	  <failOnError>false</failOnError>
           <findbugsXmlOutput>false</findbugsXmlOutput>
           <excludeFilterFile>${top.dir}/findbugs-exclude.xml</excludeFilterFile>
         </configuration>

@@ -298,7 +298,7 @@ under the License.
     <buildtype>test</buildtype>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.maven.version>3.0.0</project.maven.version>
+    <project.maven.version>3.8.6</project.maven.version>
     <project.enforcer.skip>false</project.enforcer.skip>
     <project.enforcer.fail>true</project.enforcer.fail>
     <project.build.targetJdk>1.7</project.build.targetJdk>
